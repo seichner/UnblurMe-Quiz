@@ -1,0 +1,15 @@
+Simple game where a blurred picture becomes clearer and clearer. Candidates have to guess what this image means.
+I wrote this game for the XP-Days Germany 2010, a conference on agile software development.
+The samples here therefor are from general agile context, agile book covers and prominent persons.
+
+Requires modern browser, purely client-side (so no server needed, just open the html file locally).
+
+
+Keyboard-Shortcuts:
+1/2/3 - Player 1/2/3 answers
+4 - Reset buttons and continue slideshow
+right/left - next/prev blur step
+shift+right/left - next/prev image
+a - start slideshow
+s - stop slideshow
+d - reset slideshow
